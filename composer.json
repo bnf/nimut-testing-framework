@@ -23,6 +23,11 @@
     ],
     "repositories": [
         {
+            "type": "vcs",
+            "no-api": true,
+            "url": "https://github.com/bnf/nimut-typo3-complete.git"
+        },
+        {
             "type": "path",
             "url": "tests/Packages/*"
         }
